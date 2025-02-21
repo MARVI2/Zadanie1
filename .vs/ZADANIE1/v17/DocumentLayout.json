@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bartl\\OneDrive\\Pulpit\\praktyki\\ZADANIE1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC334991-32D3-475F-AB2F-2269D774955C}|ZADANIE1\\ZADANIE1.csproj|c:\\users\\bartl\\onedrive\\pulpit\\praktyki\\zadanie1\\zadanie1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC334991-32D3-475F-AB2F-2269D774955C}|ZADANIE1\\ZADANIE1.csproj|solutionrelative:zadanie1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC334991-32D3-475F-AB2F-2269D774955C}|ZADANIE1\\ZADANIE1.csproj|c:\\users\\bartl\\onedrive\\pulpit\\praktyki\\zadanie1\\zadanie1\\test_kor_gar.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DC334991-32D3-475F-AB2F-2269D774955C}|ZADANIE1\\ZADANIE1.csproj|solutionrelative:zadanie1\\test_kor_gar.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test_KOR_GAR.txt",
+              "DocumentMoniker": "C:\\Users\\bartl\\OneDrive\\Pulpit\\praktyki\\ZADANIE1\\ZADANIE1\\test_KOR_GAR.txt",
+              "RelativeDocumentMoniker": "ZADANIE1\\test_KOR_GAR.txt",
+              "ToolTip": "C:\\Users\\bartl\\OneDrive\\Pulpit\\praktyki\\ZADANIE1\\ZADANIE1\\test_KOR_GAR.txt",
+              "RelativeToolTip": "ZADANIE1\\test_KOR_GAR.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-17T10:50:04.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bartl\\OneDrive\\Pulpit\\praktyki\\ZADANIE1\\ZADANIE1\\Program.cs",
+              "RelativeDocumentMoniker": "ZADANIE1\\Program.cs",
+              "ToolTip": "C:\\Users\\bartl\\OneDrive\\Pulpit\\praktyki\\ZADANIE1\\ZADANIE1\\Program.cs",
+              "RelativeToolTip": "ZADANIE1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T10:48:13.517Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

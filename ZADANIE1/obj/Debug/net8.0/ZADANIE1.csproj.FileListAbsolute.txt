@@ -1,0 +1,14 @@
+C:\Users\bartl\OneDrive\Pulpit\praktyki\ZADANIE1\ZADANIE1\bin\Debug\net8.0\ZADANIE1.exe
+C:\Users\bartl\OneDrive\Pulpit\praktyki\ZADANIE1\ZADANIE1\bin\Debug\net8.0\ZADANIE1.deps.json
+C:\Users\bartl\OneDrive\Pulpit\praktyki\ZADANIE1\ZADANIE1\bin\Debug\net8.0\ZADANIE1.runtimeconfig.json
+C:\Users\bartl\OneDrive\Pulpit\praktyki\ZADANIE1\ZADANIE1\bin\Debug\net8.0\ZADANIE1.dll
+C:\Users\bartl\OneDrive\Pulpit\praktyki\ZADANIE1\ZADANIE1\bin\Debug\net8.0\ZADANIE1.pdb
+C:\Users\bartl\OneDrive\Pulpit\praktyki\ZADANIE1\ZADANIE1\obj\Debug\net8.0\ZADANIE1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bartl\OneDrive\Pulpit\praktyki\ZADANIE1\ZADANIE1\obj\Debug\net8.0\ZADANIE1.AssemblyInfoInputs.cache
+C:\Users\bartl\OneDrive\Pulpit\praktyki\ZADANIE1\ZADANIE1\obj\Debug\net8.0\ZADANIE1.AssemblyInfo.cs
+C:\Users\bartl\OneDrive\Pulpit\praktyki\ZADANIE1\ZADANIE1\obj\Debug\net8.0\ZADANIE1.csproj.CoreCompileInputs.cache
+C:\Users\bartl\OneDrive\Pulpit\praktyki\ZADANIE1\ZADANIE1\obj\Debug\net8.0\ZADANIE1.dll
+C:\Users\bartl\OneDrive\Pulpit\praktyki\ZADANIE1\ZADANIE1\obj\Debug\net8.0\refint\ZADANIE1.dll
+C:\Users\bartl\OneDrive\Pulpit\praktyki\ZADANIE1\ZADANIE1\obj\Debug\net8.0\ZADANIE1.pdb
+C:\Users\bartl\OneDrive\Pulpit\praktyki\ZADANIE1\ZADANIE1\obj\Debug\net8.0\ZADANIE1.genruntimeconfig.cache
+C:\Users\bartl\OneDrive\Pulpit\praktyki\ZADANIE1\ZADANIE1\obj\Debug\net8.0\ref\ZADANIE1.dll
