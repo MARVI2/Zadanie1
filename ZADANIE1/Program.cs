@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            const string path = "C:\\Users\\bartl\\OneDrive\\Pulpit\\praktyki\\ZADANIE1\\ZADANIE1\\test_KOR_GAR.txt";
+            const string path = "C:\\test\\test_KOR_GAR.txt";
             int counter = 0;
 
             if (!File.Exists(path)) return;
